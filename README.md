@@ -5,6 +5,20 @@
 	🛠️Em Construção🛠️
 </h2>
 
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/carlatakagi/nlw-return?color=%2304D361">
+  
+  <a href="https://github.com/carlatakagi/instagram-page/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/carlatakagi/nlw-return">
+  </a>
+    
+  <a href="https://github.com/carlatakagi/instagram-page/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/carlatakagi/nlw-return?style=social">
+
+  </a>
+ 
+</p>
+
 <br>
 
 Tabela de conteúdos
@@ -69,22 +83,6 @@ Conheça a aplicação:
 <!-- <a href="">
   <img alt="Página que mostra os planetas do Sistema Solar" src="./solarsystem.gif">
 </a> -->
-
-<p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/carlatakagi/nlw-return?color=%2304D361">
-  
-  <a href="https://github.com/carlatakagi/instagram-page/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/carlatakagi/nlw-return">
-  </a>
-    
-  <a href="https://github.com/carlatakagi/instagram-page/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/carlatakagi/nlw-return?style=social">
-
-  </a>
- 
-</p>
-
-
 ---
 
 ## 🦸 Autora
